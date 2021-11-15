@@ -23,12 +23,13 @@ set -o pipefail     # The script ends if a command fails in a pipe
 #---------------------------------------------------------------------------------
 
 # Colour
-FO="Orange" # Foreground colour
+FC="Cyan"	# Foreground colour for simbol
+FO="Orange"	# Foreground colour for text
 
 # Main program
-TW=$(xdotool getactivewindow getwindowname | cut -c -65)        # Truncating active window title after 60 characters
+TW=$(xdotool getactivewindow getwindowname | cut -c -65)	# Truncating active window title after 60 characters
 T_W=$(echo "<span foreground='$FC'> </span><span foreground='$FO'>$TW</span>")
 
 # Genmon
 echo "<txt><b>$T_W</b></txt>"
-echo "<tool>TW = $TW</tool>"
+echo "<tool>$TW</tool>"
