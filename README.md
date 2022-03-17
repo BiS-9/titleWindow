@@ -1,7 +1,7 @@
 # titleWindow
 Show the title of the active window.
 
-![Title Window](https://1.bp.blogspot.com/-feNC692o76U/YUHuZdRJnQI/AAAAAAAAACk/wiwRB8DI1WEDu67bmbVzp97DnOIA_7EaACLcBGAsYHQ/s733/title_window.gif)
+![Title Window](https://blogger.googleusercontent.com/img/a/AVvXsEi6TXl-0mVhqpyFRbdJBlJy0wXbLb1G15GJIvDFJEo7zo60Srcw5MJr_oA-mIIvRT1njNyIQ__Nm2jiEA0_FEWxr9e68tjJcnFFQfSz2FwQGw_voc3tBOj1Qp2JykhvKkyWbRipI9WPTEtv5ifREiXXWhtF6ObgKNxuCBhssM5ma60VdsDRuQXzqVYU6Q=s877)
 
 This script has been made for use in xfce4-genmon-plugin.
 
